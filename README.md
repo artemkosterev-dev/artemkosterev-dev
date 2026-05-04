@@ -17,8 +17,8 @@ To grow in game development and create interesting game mechanics
 - Game system development (inventory, UI, mechanics)<!--
 
 Here are some ideas to get you started:
-Simple Obby
-Inventory system
-NPC/Shop/Tycoon
+Simple Obby,
+Inventory system,
+NPC/Shop/Tycoon,
 
 -->
