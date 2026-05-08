@@ -19,6 +19,6 @@ To grow in game development and create interesting game mechanics
 Here are some ideas to get you started:
 Loot box simulator,
 Inventory system,
-NPC/Shop/Tycoon,
+NPC/Shop/Tycoon
 
 -->
